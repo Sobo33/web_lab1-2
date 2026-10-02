@@ -1,0 +1,98 @@
+[
+  {
+    "model": "news.news",
+    "pk": 1,
+    "fields": {
+      "title": "Новость Раз",
+      "content": "Содержание",
+      "created_at": "2026-09-27T17:59:08.439122Z",
+      "updated_at": "2026-09-27T18:30:23.278686Z",
+      "photo": "",
+      "is_published": true
+    }
+  },
+  {
+    "model": "news.news",
+    "pk": 2,
+    "fields": {
+      "title": "Новость Два",
+      "content": "Содержание Два",
+      "created_at": "2026-09-27T18:00:30.702038Z",
+      "updated_at": "2026-09-27T18:00:30.702072Z",
+      "photo": "",
+      "is_published": true
+    }
+  },
+  {
+    "model": "news.news",
+    "pk": 3,
+    "fields": {
+      "title": "Новость Три",
+      "content": "Содержание Три",
+      "created_at": "2026-09-27T18:01:36.029050Z",
+      "updated_at": "2026-09-27T18:01:36.029083Z",
+      "photo": "",
+      "is_published": true
+    }
+  },
+  {
+    "model": "news.news",
+    "pk": 4,
+    "fields": {
+      "title": "Новость 6",
+      "content": "Содержание 6",
+      "created_at": "2026-09-27T18:14:57.127792Z",
+      "updated_at": "2026-09-27T18:14:57.127840Z",
+      "photo": "",
+      "is_published": true
+    }
+  },
+  {
+    "model": "news.news",
+    "pk": 5,
+    "fields": {
+      "title": "Новость 6",
+      "content": "Содержание 6",
+      "created_at": "2026-09-27T18:15:39.098690Z",
+      "updated_at": "2026-09-27T18:15:39.098722Z",
+      "photo": "",
+      "is_published": true
+    }
+  },
+  {
+    "model": "news.employee",
+    "pk": 1,
+    "fields": {
+      "position": "Хороший человек",
+      "hire_date": "2021-07-23",
+      "salary": "123650.00",
+      "is_active": false,
+      "phone": "79613232281",
+      "full_name": "Нотна Олсус Заводович"
+    }
+  },
+  {
+    "model": "news.employee",
+    "pk": 2,
+    "fields": {
+      "position": "Почтальон",
+      "hire_date": "2022-06-10",
+      "salary": "20000.00",
+      "is_active": true,
+      "phone": "79623461400",
+      "full_name": "Дмитрий Игнатьев Михаилович"
+    }
+  },
+  {
+    "model": "news.employee",
+    "pk": 3,
+    "fields": {
+      "position": "Прокрастинатор",
+      "hire_date": "2021-10-25",
+      "salary": "10.00",
+      "is_active": true,
+      "phone": "79185551467",
+      "full_name": "Самвел Жабов Майклович"
+    }
+  }
+]
